@@ -1,4 +1,4 @@
-library random_name;
+library random_name_plus;
 
 import 'dart:math';
 

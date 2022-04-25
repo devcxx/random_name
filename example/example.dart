@@ -1,4 +1,4 @@
-import 'package:random_name/random_name.dart';
+import 'package:random_name_plus/random_name_plus.dart';
 
 void main() {
   String name1 = RandomName.generate(NameType.male);
