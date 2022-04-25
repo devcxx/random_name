@@ -1,0 +1,14 @@
+name: random_name
+description: Code a random person name generator in Dart
+version: 1.0.0
+homepage: https://github.com/devcxx/random_name.git
+
+environment:
+  sdk: '>=2.16.2 <3.0.0'
+
+
+# dependencies:
+#   path: ^1.8.0
+
+dev_dependencies:
+  lints: ^1.0.0
